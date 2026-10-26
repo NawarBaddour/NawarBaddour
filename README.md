@@ -105,4 +105,5 @@ Exploring different areas of software development and working on projects that h
 
 ## 📫 Find Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NawarBaddour-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/NawarBaddour)
 [![GitHub](https://img.shields.io/badge/GitHub-NawarBaddour-181717?style=flat-square&logo=github)](https://github.com/NawarBaddour)
