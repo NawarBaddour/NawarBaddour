@@ -75,7 +75,7 @@ A bachelor's thesis project investigating how accurately Linux kernel configurat
 - **Technical highlights:** SMT-based constraints, Z3 integration, reproducible experiments, per-symbol comparisons, and data visualization.
 - **Technologies:** Python, Z3/SMT, Linux Kernel, Docker, pandas, NumPy, Plotnine.
 
-### 🎥 [Video-Chatting-Terminals](https://github.com/NawarBaddour/Video-Chatting-Terminals)
+### 🎥 [Video-Chatting Terminals](https://github.com/NawarBaddour/Video-Chatting-Terminals)
 **Real-Time ASCII Video Streaming with Embedded Systems**
 
 An embedded systems project that brings video chatting to the old-school terminals of the 1980s. Video data is processed by one ATmega microcontroller, converted into ASCII art, and transmitted over UART to a second ATmega, which displays it on a vintage terminal. The project combines retro computing with modern embedded development, focusing on microcontroller firmware, serial communication, and hardware interfacing.
